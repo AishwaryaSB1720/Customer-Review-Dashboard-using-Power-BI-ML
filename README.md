@@ -13,7 +13,7 @@ Total Positive / Negative Reviews
 % Positive Sentiment
 
 # Dashboard view:
-
+https://github.com/AishwaryaSB1720/Customer-Review-Dashboard-using-Power-BI-ML/blob/main/Final_Dashboard.png
 
 # Overview of Customer Sentiment Analysis:
 Logistic Regression: 89%
